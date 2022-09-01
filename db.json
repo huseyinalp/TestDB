@@ -2953,7 +2953,7 @@
                     "QuantityBackOrdered": "0",
                     "QuantityToBeReceived": "35",
                     "FutureAvailability": "35",
-                    "EarliestReceiptDate": "16/8/2022",
+                    "EarliestReceiptDate": "16/10/2022",
                     "LastUpdatedTimeStamp": "1/9/2022 2:33 pm"
                 }
             ]
@@ -2973,7 +2973,8 @@
             ]
         },
         {
-            "ItemCode": "200007003",
+            "ItemCode": "
+            ",
             "WareHouses": [
                 {
                     "WareHouseCode": "ILEC",
